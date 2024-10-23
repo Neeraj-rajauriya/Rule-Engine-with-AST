@@ -8,9 +8,19 @@ This application is a rule engine that determines user eligibility based on attr
 
 ## Features
 
+# Rule Engine with AST
+
+## Create Rule Screenshots
+
+![Create Rule 1](./main/Images/CreateRule%20(1).png)
+![Create Rule 2](./main/Images/CreateRule%20(2).png)
+![Create Rule 3](./main/Images/CreateRule%20(3).png)
+
+
 - **Create Rules:** Define rules using a string format that gets converted into an AST.
   
-  ![Create Rule](https://github.com/user-attachments/assets/0ffe41aa-7f9c-4fe1-9230-2091bbb16632)
+  ![Create Rule](./images/CreateRule.png)
+
 
 - **Combine Rules:** Combine multiple rules into a single AST for more complex evaluations.
   
