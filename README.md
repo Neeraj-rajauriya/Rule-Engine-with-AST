@@ -12,9 +12,9 @@ This application is a rule engine that determines user eligibility based on attr
 
 ## Create Rule Screenshots
 
-![Create Rule 1](./main/Images/CreateRule%20(1).png)
-![Create Rule 2](./main/Images/CreateRule%20(2).png)
-![Create Rule 3](./main/Images/CreateRule%20(3).png)
+![Create Rule 1](./main/Images/CreateRule.png)
+![Create Rule 2](./main/Images/CombineRule.png)
+![Create Rule 3](./main/Images/EvaluateRule.png)
 
 
 - **Create Rules:** Define rules using a string format that gets converted into an AST.
